@@ -7,7 +7,7 @@
 //
 
 #import "JWDatePickerView.h"
-#import <JWPickerView.h>
+#import <JWPickerView/JWPickerView.h>
 #import <JWLunarCalendarDB/JWLunarCalendarDB.h>
 #import <JWLunarCalendarDB/JWDateUtil.h>
 
