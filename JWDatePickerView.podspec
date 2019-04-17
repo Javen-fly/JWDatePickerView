@@ -10,5 +10,6 @@ Pod::Spec.new do |s|
   s.source_files  = "JWDatePickerView", "JWDatePickerView/**/*.{h,m}"
   s.framework  = "UIKit"
   s.dependency "JWLunarCalendarDB", "~> 1.1.2"
+  s.dependency "JWPickerView", "~> 1.0.0"
 
 end
