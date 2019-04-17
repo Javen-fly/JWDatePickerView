@@ -33,7 +33,6 @@
 		A6BFFBAB21291A2D006ADA20 /* JWDateAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWDateAlertView.h; sourceTree = "<group>"; };
 		A6BFFBAC21291A2D006ADA20 /* JWDatePickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWDatePickerView.h; sourceTree = "<group>"; };
 		A6BFFBAD21291A2D006ADA20 /* JWDatePickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JWDatePickerView.m; sourceTree = "<group>"; };
-		A6BFFBAE21291A2D006ADA20 /* JWDateViewHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWDateViewHeader.h; sourceTree = "<group>"; };
 		A908E8A4881095D994E5B15E /* libPods-JWDatePickerViewDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JWDatePickerViewDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E98CFF2829C05965E5A8E589 /* Pods-JWDatePickerViewDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JWDatePickerViewDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JWDatePickerViewDemo/Pods-JWDatePickerViewDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		F62201566E86B57C1FF0BCA7 /* Pods-JWDatePickerViewDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JWDatePickerViewDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-JWDatePickerViewDemo/Pods-JWDatePickerViewDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -102,7 +101,6 @@
 				A6BFFBAA21291A2D006ADA20 /* JWDateAlertView.m */,
 				A6BFFBAC21291A2D006ADA20 /* JWDatePickerView.h */,
 				A6BFFBAD21291A2D006ADA20 /* JWDatePickerView.m */,
-				A6BFFBAE21291A2D006ADA20 /* JWDateViewHeader.h */,
 			);
 			name = JWDatePickerView;
 			path = ../JWDatePickerView;

@@ -7,8 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "JWDateViewHeader.h"
-
+#import "JWDatePickerView.h"
 typedef NS_ENUM(NSInteger, JWDateAlertViewStyle) {
     JWDateAlertViewSheet = 0,
     JWDateAlertViewAlert
